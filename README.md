@@ -11,7 +11,7 @@
 ## 📁 Структура проєкту
 
 ```
-goit-algo2-hw-07/
+woolf-algo2-hw-07/
 ├── task1_lru_cache/
 │ ├── lru_cache_task.py
 │ └── screenshots/
